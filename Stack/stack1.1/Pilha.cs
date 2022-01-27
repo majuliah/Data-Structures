@@ -2,8 +2,8 @@
 {
     public class Pilha
     {
-        private int valores[];
-        private int topo;
+        public int valores[];
+        public int topo;
 
         public Pilha()
         {
